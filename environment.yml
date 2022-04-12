@@ -10,8 +10,5 @@
      - streamlit
      - streamlit_webrtc
      - imutils
-     - datetime
      - av
-     - cv2
      - imutils
-     - pickle
